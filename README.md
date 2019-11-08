@@ -1,2 +1,3 @@
 # LanQiao
-Records and answers to the competition questions in the LanQiao Cup(China) competiton.
+
+This project is aimed to record vip questions on LanQiao Cup(China) offical online judge.
